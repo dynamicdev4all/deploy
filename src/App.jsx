@@ -4,7 +4,7 @@ import StudentDashboard from './pages/student/StudentDashboard'
 import StudentLogin from './pages/student/StudentLogin'
 import { BrowserRouter, Routes, Route } from "react-router-dom"
 import StudentRegister from './pages/student/StudentRegister'
-import FourOFour from './pages/fourofour'
+import FourOFour from './pages/FourOFour'
 
 function App() {
 
